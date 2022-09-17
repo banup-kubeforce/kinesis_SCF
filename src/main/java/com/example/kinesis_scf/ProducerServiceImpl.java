@@ -1,4 +1,4 @@
-package com.kubeforce.kinesis_rest;
+package com.example.kinesis_scf;
 
 
 import com.amazonaws.auth.AWSStaticCredentialsProvider;
